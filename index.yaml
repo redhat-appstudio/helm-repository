@@ -3,7 +3,7 @@ entries:
   dance:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-11-15T22:54:05.556403-05:00"
+    created: "2023-11-15T22:54:29.716024-05:00"
     description: A Helm chart for Kubernetes
     digest: a7143b0a4dfbfbfeeabfbb16c241b20ff40eeab1115dbaa9302714d1522eed8a
     name: dance
@@ -11,14 +11,4 @@ entries:
     urls:
     - https://redhat-appstudio.github.io/helm-repository/dance-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-11-15T22:54:05.555327-05:00"
-    description: A Helm chart for Kubernetes
-    digest: 50bbcd4f27502580ee0f38123df4a520776392289813ebd6b7a8be1df6897f47
-    name: dance
-    type: application
-    urls:
-    - https://redhat-appstudio.github.io/helm-repository/dance-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-11-15T22:54:05.554111-05:00"
+generated: "2023-11-15T22:54:29.71533-05:00"
