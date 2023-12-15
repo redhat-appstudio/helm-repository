@@ -2,8 +2,22 @@ apiVersion: v1
 entries:
   dance:
   - apiVersion: v2
+    appVersion: 2.1.0
+    created: "2023-12-15T16:38:21.910114591-05:00"
+    dependencies:
+    - name: developer-hub
+      repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
+      version: 1.0.0
+    description: A Helm chart for Kubernetes
+    digest: 16e904185cade3d6fb1edf82e8380f447d22b1e1fd75bd5a771e8047607f949c
+    name: dance
+    type: application
+    urls:
+    - dance-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-15T15:04:24.782988507-05:00"
+    created: "2023-12-15T16:38:21.900300021-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -17,7 +31,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-15T15:04:24.764887985-05:00"
+    created: "2023-12-15T16:38:21.889619327-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -31,7 +45,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-15T15:04:24.744796422-05:00"
+    created: "2023-12-15T16:38:21.879235743-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -45,7 +59,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2023-12-15T15:04:24.722788146-05:00"
+    created: "2023-12-15T16:38:21.869010054-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -59,7 +73,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.700644131-05:00"
+    created: "2023-12-15T16:38:21.858588622-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -73,7 +87,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.650508574-05:00"
+    created: "2023-12-15T16:38:21.848509331-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -87,7 +101,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.634741803-05:00"
+    created: "2023-12-15T16:38:21.837376373-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -101,7 +115,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.623268615-05:00"
+    created: "2023-12-15T16:38:21.822431913-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -115,7 +129,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.609787844-05:00"
+    created: "2023-12-15T16:38:21.807337406-05:00"
     description: A Helm chart for Kubernetes
     digest: 6a8bd16afb58ce8a2d3101d8a5f04d09e0a5da7ed89ce5c0e245eacdb31ccf80
     name: dance
@@ -125,7 +139,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.6090234-05:00"
+    created: "2023-12-15T16:38:21.806645735-05:00"
     description: A Helm chart for Kubernetes
     digest: 2d3e55243dbfa8c7c1b80a148c0d4330b68acd37e838d5c8b8f27b426ecfc81c
     name: dance
@@ -135,7 +149,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-12-15T15:04:24.608355571-05:00"
+    created: "2023-12-15T16:38:21.805993157-05:00"
     description: A Helm chart for Kubernetes
     digest: a7143b0a4dfbfbfeeabfbb16c241b20ff40eeab1115dbaa9302714d1522eed8a
     name: dance
@@ -143,4 +157,4 @@ entries:
     urls:
     - dance-0.2.0.tgz
     version: 0.2.0
-generated: "2023-12-15T15:04:24.607768252-05:00"
+generated: "2023-12-15T16:38:21.805411707-05:00"
