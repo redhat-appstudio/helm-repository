@@ -3,7 +3,7 @@ entries:
   dance:
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.251737489-05:00"
+    created: "2024-01-24T17:21:07.383712435-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -17,7 +17,7 @@ entries:
     version: 0.5.11
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.237457995-05:00"
+    created: "2024-01-24T17:21:07.360293072-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -31,7 +31,7 @@ entries:
     version: 0.5.10
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.359215714-05:00"
+    created: "2024-01-24T17:21:07.561831225-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -45,7 +45,7 @@ entries:
     version: 0.5.9
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.34809898-05:00"
+    created: "2024-01-24T17:21:07.53921548-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -59,7 +59,7 @@ entries:
     version: 0.5.8
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.336912025-05:00"
+    created: "2024-01-24T17:21:07.517052973-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -73,7 +73,7 @@ entries:
     version: 0.5.7
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.325279706-05:00"
+    created: "2024-01-24T17:21:07.495203995-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -87,7 +87,7 @@ entries:
     version: 0.5.6
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.311500286-05:00"
+    created: "2024-01-24T17:21:07.460304784-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -101,7 +101,7 @@ entries:
     version: 0.5.5
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.297368753-05:00"
+    created: "2024-01-24T17:21:07.440291335-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -115,7 +115,7 @@ entries:
     version: 0.5.4
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.283071651-05:00"
+    created: "2024-01-24T17:21:07.426531569-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -129,7 +129,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.268402208-05:00"
+    created: "2024-01-24T17:21:07.405332441-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -143,7 +143,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.22237245-05:00"
+    created: "2024-01-24T17:21:07.336258074-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -157,7 +157,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.207696157-05:00"
+    created: "2024-01-24T17:21:07.313103137-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -171,7 +171,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-01-22T16:00:52.193936509-05:00"
+    created: "2024-01-24T17:21:07.29165695-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -185,7 +185,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-01-22T16:00:52.179900062-05:00"
+    created: "2024-01-24T17:21:07.26902068-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -199,7 +199,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-01-22T16:00:52.165884072-05:00"
+    created: "2024-01-24T17:21:07.24688287-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -213,7 +213,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-01-22T16:00:52.151201007-05:00"
+    created: "2024-01-24T17:21:07.224822404-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -227,7 +227,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.136810654-05:00"
+    created: "2024-01-24T17:21:07.189185735-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -241,7 +241,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.122964279-05:00"
+    created: "2024-01-24T17:21:07.175450775-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -255,7 +255,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.108777659-05:00"
+    created: "2024-01-24T17:21:07.161600049-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -269,7 +269,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.091992285-05:00"
+    created: "2024-01-24T17:21:07.144457159-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/10184db43cf7267dee2edc87af072f53beaa4fa1
@@ -283,7 +283,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.050126599-05:00"
+    created: "2024-01-24T17:21:07.124366159-05:00"
     description: A Helm chart for Kubernetes
     digest: 6a8bd16afb58ce8a2d3101d8a5f04d09e0a5da7ed89ce5c0e245eacdb31ccf80
     name: dance
@@ -293,7 +293,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.049526995-05:00"
+    created: "2024-01-24T17:21:07.123527325-05:00"
     description: A Helm chart for Kubernetes
     digest: 2d3e55243dbfa8c7c1b80a148c0d4330b68acd37e838d5c8b8f27b426ecfc81c
     name: dance
@@ -303,7 +303,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-01-22T16:00:52.048948576-05:00"
+    created: "2024-01-24T17:21:07.122752616-05:00"
     description: A Helm chart for Kubernetes
     digest: a7143b0a4dfbfbfeeabfbb16c241b20ff40eeab1115dbaa9302714d1522eed8a
     name: dance
@@ -314,7 +314,21 @@ entries:
   rhtap:
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.38280402-05:00"
+    created: "2024-01-24T17:21:07.627885359-05:00"
+    dependencies:
+    - name: developer-hub
+      repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/be57b45121ce9206b8b0c88e07ed444ad2710fe8
+      version: 1.0.0-1
+    description: A Helm chart for Kubernetes
+    digest: 14b93445fdce4039b585595e4ad44d4d67e10605fb282410a188e94505384966
+    name: rhtap
+    type: application
+    urls:
+    - rhtap-0.6.2.tgz
+    version: 0.6.2
+  - apiVersion: v2
+    appVersion: 2.1.0
+    created: "2024-01-24T17:21:07.607447351-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/be57b45121ce9206b8b0c88e07ed444ad2710fe8
@@ -328,7 +342,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2024-01-22T16:00:52.370890366-05:00"
+    created: "2024-01-24T17:21:07.58397448-05:00"
     dependencies:
     - name: developer-hub
       repository: https://gist.githubusercontent.com/rhdh-bot/63cef5cb6285889527bd6a67c0e1c2a9/raw/1321d62343b208213089549b8a1050d9c3f48551
@@ -340,4 +354,4 @@ entries:
     urls:
     - rhtap-0.6.0.tgz
     version: 0.6.0
-generated: "2024-01-22T16:00:52.048311519-05:00"
+generated: "2024-01-24T17:21:07.122057811-05:00"
