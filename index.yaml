@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  redhat-trusted-application-pipeline:
+  - annotations:
+      charts.openshift.io/name: Trusted Application Pipeline
+      charts.openshift.io/provider: Red Hat
+      charts.openshift.io/supportURL: https://github.com/redhat-appstudio/rhtap-installer/issues
+    apiVersion: v2
+    appVersion: 1.1.x
+    created: "2024-05-16T11:47:43.844204722-04:00"
+    description: A Helm chart for deploying Red Hat Trusted Application Pipeline
+    digest: 4ab84a1c3e790d783123dd848474ff6e25acd85710b2fb5d6f682a186cea33be
+    kubeVersion: '>= 1.25.0-0'
+    maintainers:
+    - name: Red Hat Trusted Application Pipeline Team
+      url: https://github.com/redhat-appstudio/rhtap-installer
+    name: redhat-trusted-application-pipeline
+    sources:
+    - https://github.com/redhat-appstudio/rhtap-installer
+    type: application
+    urls:
+    - redhat-trusted-application-pipeline-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-05-16T11:47:43.832337967-04:00"
